@@ -1,8 +1,6 @@
 // Post1.js
 
 import { Card } from "react-bootstrap";
-import logo from "../Components/Images/logo.png"
-
 const Post1 = () => {
 	return (
 		<Card>
